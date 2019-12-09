@@ -1,0 +1,1 @@
+git push && rm -rf build && rake publish
